@@ -1,1 +1,2 @@
 # Artificial-Intelligence
+This project is designed to intelligently remove logos or watermarks from videos. The `logo_maker.py` file is intended for simplified testing; it takes a video and a chosen logo, then generates a video with that logo moving throughout the footage. Now that you have the video, you can use `yolo_model.py` to intelligently process any video containing a logo or watermark and obtain a clean version with those elements removed.
