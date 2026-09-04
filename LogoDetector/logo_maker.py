@@ -3,7 +3,7 @@ import numpy as np
 import random
 import os
 
-VIDEO_PATH = 'mansor.mp4'             # Input video path
+VIDEO_PATH = 'somefile.mp4'             # Input video path
 OUTPUT_VIDEO = 'video_with_logo.mp4'  # Output video
 LOGO_IMAGE = 'logo.png'               # Logo image
 
